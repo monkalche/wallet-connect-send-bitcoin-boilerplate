@@ -7,7 +7,7 @@ Node.js (version 14 or higher)
 npm (Node Package Manager)
 A Bitcoin testnet or mainnet node setup (e.g., bitcoind or btcd)
 
-#Installation
+# Installation
 1.Clone this repository: git clone https://github.com/your-username/bitcoin-wallet-boilerplate.git
 2.Install dependencies: npm install
 3.Configure the config.json file with your Bitcoin node's details (e.g., host, port, username, and password)
