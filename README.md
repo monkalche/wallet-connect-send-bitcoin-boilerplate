@@ -21,7 +21,7 @@ Connect to a Bitcoin wallet using the Bitcoinjs-library
 Sign messages using the Electrum Personal Message signing protocol
 Send Bitcoins using the Bitcore library
 
-#Configuration
+# Configuration
 The config.json file contains the following settings:
 
 bitcoinNode: Object containing the details of your Bitcoin node (host, port, username, and password)
